@@ -14,7 +14,5 @@ Cleaning and preprocessing the data to handle missing values, outliers, and inco
 Privacy and ethical considerations regarding sensitive personal information.
 Creating a dataset with these attributes will enable a comprehensive analysis of COVID-19 vaccination trends, efficacy, distribution patterns, and their impact on public health.
 
-![Alt text](image.png)
-![Alt text](image-1.png)
-![Alt text](image-2.png)
-![Alt text](image-3.png)
+![Alt text](image-4.png)
+![Alt text](image-5.png)
